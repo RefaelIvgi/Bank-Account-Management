@@ -21,9 +21,9 @@
 <h3 align="left">✰ Bank account management project using binary search trees.</h3>
 <h3 align="left">✰ Working with files (employees, customers and accounts). </h3>
 <h3 align="left">✰ The local options are add and delete employees and customers, money exchange trading (dollars, euros). </h3>
-<h3 align="left">✰ With 3 types of permissions and depending on the connection, the appropriate menu will appear for the permission,.</h3>
+<h3 align="left">✰ With 3 types of permissions and depending on the connection, the appropriate menu will appear for the permission.</h3>
 <h3 align="left">✰ Option to view the list of customers and their account details. </h3>
-<h3 align="left">✰ Include LOG file to track the events of the system</h3>
+<h3 align="left">✰ Include LOG file to track the events of the system.</h3>
 
 <h1 align="left">Features</h1>  
  
