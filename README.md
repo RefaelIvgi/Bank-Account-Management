@@ -20,9 +20,8 @@
 
 
 <h1 align="left">Description</h1>
-<h3 align="left">1. Open Matlab </h3>
-<h3 align="left">2. Go to 'APPS' tab and press Arduino Explorer </h3>
-<h3 align="left">3. Download and install the Arduino Package </h3>
+<h3 align="left">Bank account management project using binary search trees, working with files (employees, customers and accounts), possibility to add and delete employees and customers, money exchange trading (dollars, euros). With 3 types of permissions and depending on the connection, the appropriate menu will appear for the permission, viewing the list of customers and their account details. </h3>
+
 
 <img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/HeartBeatSensor-Matlab-/blob/main/hb1.PNG" >
 
