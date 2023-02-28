@@ -28,7 +28,7 @@
 <h1 align="left">Features</h1>  
  
 <h3 align="center">✰ System administrator login with Admin username & password </h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/109313481/221919553-801d1108-0d76-46ab-8ea3-c1a592838d71.PNG" >
+<img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/109313481/221919553-801d1108-0d76-46ab-8ea3-c1a592838d71.PNG" >
   
 
 
