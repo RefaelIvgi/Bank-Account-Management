@@ -18,7 +18,7 @@
 
 <h1 align="left">Description</h1>
 
-<h3 align="left">✰ Bank account management project using a data structure - binary search trees.</h3>
+<h3 align="left">✰ Bank account management system using a data structure - binary search trees.</h3>
 <h3 align="left">✰ Working with files (employees, customers and accounts). </h3>
 <h3 align="left">✰ The local options are add and delete employees and customers, money exchange trading (dollars, euros). </h3>
 <h3 align="left">✰ With 3 types of permissions and depending on the connection, the appropriate menu will appear for the permission.</h3>
