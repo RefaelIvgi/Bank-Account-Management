@@ -37,10 +37,10 @@
  <img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/109313481/221923678-6e037b75-8f89-40c5-96ce-d8963245eb1c.PNG" >
  
  <h3 align="left">✰ Adding a new coin for exchange </h3>
- <img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/109313481/221924107-16c914f4-3949-4b29-aecc-8eff9fc39d90.PNG" >
+ <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/221924107-16c914f4-3949-4b29-aecc-8eff9fc39d90.PNG" >
  
  <h3 align="left">✰ Log file for track system events with time and date stamp </h3>
- <img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/109313481/221924919-f0435635-9816-4c8c-97ee-f5a72592d045.PNG" >
+ <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/221924919-f0435635-9816-4c8c-97ee-f5a72592d045.PNG" >
  
  
 <h1 align="center"> Good Luck ! </h1>
