@@ -29,7 +29,9 @@
  
 <h3 align="left">✰ System administrator login with Admin username & password </h3>
 <img align="center" width="400" src="https://user-images.githubusercontent.com/109313481/221919553-801d1108-0d76-46ab-8ea3-c1a592838d71.PNG" >
-  
+ 
+ <h3 align="left">✰ The system menu according to the permission level </h3>
+ <img align="center" width="400" src="https://user-images.githubusercontent.com/109313481/221923058-0176b525-9382-4065-9f94-ae79c741b458.PNG" >
 
 
 <h1 align="center"> Good Luck ! </h1>
