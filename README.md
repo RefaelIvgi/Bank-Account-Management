@@ -28,12 +28,21 @@
 <h1 align="left">Features</h1>  
  
 <h3 align="left">✰ System administrator login with Admin username & password </h3>
-<img align="center" width="400" src="https://user-images.githubusercontent.com/109313481/221919553-801d1108-0d76-46ab-8ea3-c1a592838d71.PNG" >
+<img align="left" width="400" src="https://user-images.githubusercontent.com/109313481/221919553-801d1108-0d76-46ab-8ea3-c1a592838d71.PNG" >
  
  <h3 align="left">✰ The system menu according to the permission level </h3>
- <img align="center" width="400" src="https://user-images.githubusercontent.com/109313481/221923058-0176b525-9382-4065-9f94-ae79c741b458.PNG" >
+ <img align="left" width="300" src="https://user-images.githubusercontent.com/109313481/221923058-0176b525-9382-4065-9f94-ae79c741b458.PNG" >
 
-
+ <h3 align="left">✰ Adding a new customer account </h3>
+ <img align="left" width="300" src="https://user-images.githubusercontent.com/109313481/221923678-6e037b75-8f89-40c5-96ce-d8963245eb1c.PNG" >
+ 
+ <h3 align="left">✰ Adding a new coin for exchange </h3>
+ <img align="left" width="300" src="https://user-images.githubusercontent.com/109313481/221924107-16c914f4-3949-4b29-aecc-8eff9fc39d90.PNG" >
+ 
+ <h3 align="left">✰ Log file for track system events with time and date stamp </h3>
+ <img align="left" width="300" src="https://user-images.githubusercontent.com/109313481/221924919-f0435635-9816-4c8c-97ee-f5a72592d045.PNG" >
+ 
+ 
 <h1 align="center"> Good Luck ! </h1>
 
 
