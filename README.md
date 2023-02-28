@@ -20,10 +20,14 @@
 
 
 <h1 align="left">Description</h1>
-<h3 align="left">Bank account management project using binary search trees, working with files (employees, customers and accounts), possibility to add and delete employees and customers, money exchange trading (dollars, euros). With 3 types of permissions and depending on the connection, the appropriate menu will appear for the permission, viewing the list of customers and their account details. </h3>
+<h3 align="left">Bank account management project using binary search trees, working with files (employees, customers and accounts), 
+possibility to add and delete employees and customers, money exchange trading (dollars, euros). 
+With 3 types of permissions and depending on the connection, the appropriate menu will appear for the permission, 
+viewing the list of customers and their account details. 
+include LOG file to track the events of the system</h3>
 
 
-<img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/HeartBeatSensor-Matlab-/blob/main/hb1.PNG" >
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/221919553-801d1108-0d76-46ab-8ea3-c1a592838d71.PNG" >
 
 <h3 align="left">4. Connect the Arduino to your COM and run the Hardware setup </h3>
 <img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/HeartBeatSensor-Matlab-/blob/main/hb2.PNG" >
