@@ -1,6 +1,6 @@
 //Created by:
-// Damian Fain - 320518996 
-// Refael Ivgi - 316363449
+// Refael Ivgi 
+// Damian Fain
 //28/12/2022
 
 
@@ -33,8 +33,8 @@ typedef struct customer
 {
     char name[20];
     int account_number;
-    char owner_type;//חשבון משפחתי, סטודנט, יחיד
-    int branch_number;// סניף
+    char owner_type;
+    int branch_number;
     double management_fees;
     int balance;
 } cust;
@@ -170,11 +170,6 @@ int deleteCustomer(node** root, int customer_number) {
         }
     }
 
-    // //If the customer is not found, return a message indicating that the customer does not exist
-    //if (current == NULL) {
-    //    printf("Customer with account number %d does not exist.\n", customer_number);
-    //    return 0;
-    //} // TODO - uncomment..
 
     // Remove the customer's data from the CUSTOMER_FILE
     FILE* source = fopen(CUSTOMER_FILE, "rb");
@@ -702,15 +697,6 @@ void printItems()
 }
 
 
-//void print_tree(node* root) {
-//    if (root != NULL) {
-//        print_tree(root->left);
-//        printf("Account Number: %d, Name: %s, Owner Type: %c, Branch Number: %d, Management Fees: %lf, Balance: %d\n",
-//            root->data.account_number, root->data.name, root->data.owner_type, root->data.branch_number,
-//            root->data.management_fees, root->data.balance);
-//        print_tree(root->right);
-//    }
-//}
 
 void load_log()
 {
@@ -806,14 +792,7 @@ void load_data_to_EmpTree(emp** root)
     else {
         fclose(employeeFile);
     }
-    // void checkIfExists(const char *filename, const char *mode);
-    // checkIfExists(CUSTOMER_FILE, "rb");
-    // checkIfExists(ITEM_FILE);
 
-    // Check if the customer file exists
-
-    // Root of the employee binary search tree
-    //nodeEmployee* employeeRoot = NULL;
 
     // Load all employees from the file into the tree
     employeeFile = fopen(EMPLOYEE_FILE, "rb");
